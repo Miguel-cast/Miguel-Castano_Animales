@@ -1,0 +1,15 @@
+C:\Users\salak301\Miguel-Castano_Animales\ConsoleAnimal\bin\Debug\net8.0\ConsoleAnimal.exe
+C:\Users\salak301\Miguel-Castano_Animales\ConsoleAnimal\bin\Debug\net8.0\ConsoleAnimal.deps.json
+C:\Users\salak301\Miguel-Castano_Animales\ConsoleAnimal\bin\Debug\net8.0\ConsoleAnimal.runtimeconfig.json
+C:\Users\salak301\Miguel-Castano_Animales\ConsoleAnimal\bin\Debug\net8.0\ConsoleAnimal.dll
+C:\Users\salak301\Miguel-Castano_Animales\ConsoleAnimal\bin\Debug\net8.0\ConsoleAnimal.pdb
+C:\Users\salak301\Miguel-Castano_Animales\ConsoleAnimal\obj\Debug\net8.0\ConsoleAnimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salak301\Miguel-Castano_Animales\ConsoleAnimal\obj\Debug\net8.0\ConsoleAnimal.AssemblyInfoInputs.cache
+C:\Users\salak301\Miguel-Castano_Animales\ConsoleAnimal\obj\Debug\net8.0\ConsoleAnimal.AssemblyInfo.cs
+C:\Users\salak301\Miguel-Castano_Animales\ConsoleAnimal\obj\Debug\net8.0\ConsoleAnimal.csproj.CoreCompileInputs.cache
+C:\Users\salak301\Miguel-Castano_Animales\ConsoleAnimal\obj\Debug\net8.0\ConsoleAnimal.sourcelink.json
+C:\Users\salak301\Miguel-Castano_Animales\ConsoleAnimal\obj\Debug\net8.0\ConsoleAnimal.dll
+C:\Users\salak301\Miguel-Castano_Animales\ConsoleAnimal\obj\Debug\net8.0\refint\ConsoleAnimal.dll
+C:\Users\salak301\Miguel-Castano_Animales\ConsoleAnimal\obj\Debug\net8.0\ConsoleAnimal.pdb
+C:\Users\salak301\Miguel-Castano_Animales\ConsoleAnimal\obj\Debug\net8.0\ConsoleAnimal.genruntimeconfig.cache
+C:\Users\salak301\Miguel-Castano_Animales\ConsoleAnimal\obj\Debug\net8.0\ref\ConsoleAnimal.dll
